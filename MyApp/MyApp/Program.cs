@@ -10,7 +10,7 @@ namespace MyApp
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("HelloWorld");
+			Console.WriteLine("修改后");
 		}
 	}
 }
